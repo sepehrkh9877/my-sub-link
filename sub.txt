@@ -1,3 +1,4 @@
+vless://ef51759a-a359-4648-b9e5-fb3a9c439654@ger1bot-ws.headerip.com:80/?encryption=none&type=ws&host=ger1.mv5.ir&path=/&security=none#Y93i0g```
 vless://5bc1db85-e48e-4283-8d4e-ba3ab7d31b2b@185.143.234.235:80?path=%2F&security=none&encryption=none&host=ttt4.almasidiag.ir&type=ws#AfY69s```
 vless://fed15256-a216-4e13-9815-ec6f86c2d2e2@ger1bot-ws.headerip.com:80/?security=none&type=ws&headerType=&path=%2F&host=ger1.mv5.ir#BKSx8a```
 vless://fb6ac49a-9a35-42f7-8343-50105c842d77@ger1bot-ws.headerip.com:80/?security=none&type=ws&headerType=&path=%2F&host=ger1.mv5.ir#YlkCsm```
@@ -53,5 +54,3 @@ vless://b871c23e-ed1b-41ee-860b-891b561c9b89@snapp.ir:80/?type=ws&encryption=non
 vless://b1eae881-d20d-4a4e-9b77-b7917484e1fe@109.95.67.159:80?type=ws&encryption=none&path=%2F&host=&security=none#Y0Gwzs```
 vless://d83eab44-c90f-45b5-a65d-1d9807033171@v8.madussgameshop.com:80?path=%2F&security=none&encryption=none&host=v8.madussgameshop.com&type=ws#8GC5C3```
 vless://303a17e3-e6f7-4b72-aa98-02ffab061701@rapidnetstr.novatechworld.ir:8080?encryption=none&host=&path=%2F&security=none&type=ws#qF31f4```
-vless://2e601dc4-3a0a-4448-bc1c-861d534e688c@twt.ghapol.ir:80/?encryption=none&host=az.kiod.ir&path=%2F&security=none&type=ws#m6CXco
-vless://be19705c-d032-4cca-bf9e-689b87d9664c@lite.lootmaster.ir:2082?path=%2F&security=&encryption=none&host=lite.lootmaster.ir&type=ws#dlqqL4```
