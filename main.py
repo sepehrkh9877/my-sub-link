@@ -28,7 +28,7 @@ async def run():
         final_list = unique_configs[:60]
         
         # ۴. ذخیره در فایل
-        with open("sub.txt", "w", encoding="utf-8") as f:
+        with open("sub_78721_config_13740_jbfnbk.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(final_list))
 
 client.loop.run_until_complete(run())
