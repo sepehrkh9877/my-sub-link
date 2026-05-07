@@ -2,9 +2,10 @@ name: Auto Update
 
 on:
   schedule:
-    - cron: '20 * * * *' # اجرا در دقیقه ۲۰ هر ساعت
+    - cron: '35 * * * *' # اجرا در دقیقه ۳۵ هر ساعت
   workflow_dispatch:
 
+# تعریف صریح دسترسی در سطح فایل
 permissions:
   contents: write
 
@@ -15,7 +16,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false # این را false می‌گذاریم تا خودمان توکن را تزریق کنیم
+          # استفاده از توکن پیش‌فرض برای احراز هویت
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -36,13 +38,13 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add sub.txt
           
-          # بررسی وجود تغییرات برای جلوگیری از ارور توقف
+          # اگر تغییری در فایل نباشد، بدون ارور خارج شود
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
-            # روش Push با تزریق مستقیم توکن امنیتی
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+            git push
           fi
