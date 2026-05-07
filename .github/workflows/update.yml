@@ -2,9 +2,8 @@ name: Auto Update
 
 on:
   schedule:
-    # اجرا در دقیقه ۲۵ هر ساعت برای فرار از ترافیک دقیقه ۰
-    - cron: '25 * * * *'
-  workflow_dispatch: # این خط باعث می‌شود دکمه اجرای دستی ظاهر شود
+    - cron: '20 * * * *' # اجرا در دقیقه ۲۰ هر ساعت
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false # این را false می‌گذاریم تا خودمان توکن را تزریق کنیم
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -36,6 +37,12 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add sub.txt
-          # اگر تغییری نبود، اسکریپت متوقف نشود
-          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')" || exit 0
-          git push
+          
+          # بررسی وجود تغییرات برای جلوگیری از ارور توقف
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
+            # روش Push با تزریق مستقیم توکن امنیتی
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          fi
