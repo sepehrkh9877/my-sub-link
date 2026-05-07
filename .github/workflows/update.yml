@@ -1,10 +1,10 @@
 name: Auto Update
 
 on:
-  workflow_dispatch: # اجازه اجرای دستی و API (توسط Cron-job.org)
+  workflow_dispatch:
   push:
     branches:
-      - main       # اجرا در صورت تغییر دستی کدها (اختیاری)
+      - main
 
 jobs:
   build:
@@ -31,7 +31,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Auto-update triggered by Cron-Job" || exit 0
+          git commit -m "Auto-update via Cron-Job" || exit 0
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
