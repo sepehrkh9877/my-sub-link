@@ -1,4 +1,5 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_17:00 | 2026-05-08
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_18:00 | 2026-05-08
+vless://843b15a5-0533-4cae-b9cd-47b9c7f5565f@jobinja.ir:80?security=none&type=ws&headerType=&path=%2Fassets&host=hostt.movizdl.ir#jBVexz```
 vless://54bf2712-e68a-405e-90f9-28cce156ce04@useredge3.noroozmobarak.com:80?security=none&type=ws&headerType=&path=%2Fweb-panel&host=vip1host.ozvinoo.ir#sfnQdu```
 vless://88c7eaec-cf71-4413-ab83-00e888faa657@arvancloud.ir:80?path=%2F&security=&encryption=none&host=latency.xrevenant.ir&type=ws#XwraAw```
 vless://3db1a275-4ad6-4a31-b707-40edee412a8c@tg7.solidv.cloud:48219/?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#szfNrn```
@@ -58,4 +59,3 @@ vless://1c0a3c50-d2e9-4983-90fb-2ba1789b2826@185.60.59.66:45576?security=&encryp
 vless://5f43e018-b7b5-4264-af68-ad8a3c91bad1@arvancloud.ir:80?path=%2F&security=&encryption=none&host=latency.xrevenant.ir&type=ws#IRf7oT
 vless://78dea970-4ce0-edcc-9228-43dcd439dc94@vipcdn2.cifnox.ir:2086/?encryption=none&type=ws&path=/&security=none#sBWjqO```
 vless://30d2bf38-44b9-41e0-a108-be8c60af1b81@panel.emg1.nexmon.online:38262?type=tcp&encryption=none&security=none#kiRAVJ```
-vless://8b57a7a0-c5c0-418d-ba17-446172b29fbf@soltan.purples.ir:80/?encryption=none&host=vos1.bidacom.ir&path=%2F&security=none&type=ws#yWRcKd```
