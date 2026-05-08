@@ -1,4 +1,5 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_22:00 | 2026-05-08
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_23:00 | 2026-05-08
+vless://3d79d37c-0e1d-4ecd-89fb-7c5fa1276e78@snapp.ir:80/?encryption=none&type=ws&host=Onion.novatechnetwork.ir&path=/&security=none#c2OYSB```
 vless://d4538921-7483-4832-a846-14b975903bd1@snapp.ir:80?type=ws&encryption=none&path=%2F&host=test.jkaaa.ir&security=none#pvKJX9```
 vless://c68d4cc1-44e1-4f57-8edf-d2e19fc66e73@tg7.solidv.cloud:2080?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#SXMJNq
 vless://c63592d9-4c68-4984-8eb4-194f85200077@dataedge2.abexamir.site:80/?encryption=none&type=ws&path=/&security=none#tazENJ```
@@ -58,4 +59,3 @@ vless://fa1c091b-1d38-4314-9c9c-db27191d59a6@188.213.198.119:1006/?type=tcp&encr
 vless://5b052674-e9db-4d24-b615-24235d789c0f@v1.lgate.top:2087?encryption=none&host=&path=%2F&security=none&type=ws#PNR2lZ```
 vless://3851c459-11b4-4a9e-a61c-856d09a340b9@pm5.vhuma.com:443?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#FS30hV
 vless://5dab2630-fc38-421c-9c7a-05a030762032@snapp.ir:80?path=%2F&security=&encryption=none&host=arvan2.un1ty.ir&type=ws#RKfgf2```
-vless://5b052674-e9db-4d24-b615-24235d789c0f@v1.lgate.top:2087?encryption=none&host=&path=%2F&security=none&type=ws#CzB4gB
