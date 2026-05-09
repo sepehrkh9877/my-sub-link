@@ -1,4 +1,5 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_11:00 | 2026-05-09
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_12:00 | 2026-05-09
+vless://c63592d9-4c68-4984-8eb4-194f85200077@dataedge2.abexamir.site:80/?encryption=none&type=ws&path=/&security=none#E8adxB```
 vless://3a2ec3af-5a44-475e-a998-b21e9feba5ad@node1.aerova.space:2439/?type=ws&encryption=none&path=%2F&host=&security=none#8Wm1QP
 vless://16ecdff5-2581-4ea9-9c0c-1f651d7e06a0@fl1bot-ws.headerip.com:80?path=%2F&security=&encryption=none&host=fl1.mv5.ir&type=ws#Ni0GXW```
 vless://613446a9-5d41-4e5b-a3c4-2aa03329736d@ch4.whatiffa.ir:8080?encryption=none&security=none&type=ws&host=ch4.whatiffa.ir&path=%2Ftunnel#QJhnjh```
@@ -58,4 +59,3 @@ vless://fa1c091b-1d38-4314-9c9c-db27191d59a6@188.213.198.119:1006/?type=tcp&encr
 vless://3db1a275-4ad6-4a31-b707-40edee412a8c@tg7.solidv.cloud:48219/?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#2wAayU
 vless://5f43e018-b7b5-4264-af68-ad8a3c91bad1@arvancloud.ir:80?path=%2F&security=&encryption=none&host=latency.xrevenant.ir&type=ws#XpAfQH```
 vless://08f9f1ff-228e-44bf-9d13-18e94f3a6db0@node1.aerova.space:2439?type=ws&encryption=none&path=%2F&host=&security=none#mwSeS8
-vless://54bf2712-e68a-405e-90f9-28cce156ce04@useredge3.noroozmobarak.com:80?security=none&type=ws&headerType=&path=%2Fweb-panel&host=vip1host.ozvinoo.ir#vlWpxk```
