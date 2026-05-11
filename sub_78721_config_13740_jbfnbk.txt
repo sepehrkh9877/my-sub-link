@@ -1,4 +1,6 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_18:00 | 2026-05-11
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_19:00 | 2026-05-11
+vless://ddf71fed-cb95-43c8-ba75-bde08e8baf14@anten.ir:8880?type=ws&encryption=none&path=%2F&host=filaxephine.ir&security=none#a34971b6
+vmess://eyJhZGQiOiIyLjE4Ni4xMTUuMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlc3Qucm9taW5hLnRlY2giLCJpZCI6ImMyZDNlYzZiLTZmZWYtNDE2Ni1hYzM1LWY2MzU5ZTkwZWU3MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6ImtpeDRWWiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9```
 vless://12961a6f-32fc-4ee6-ac8f-9cfafb1609f1@188.121.123.38:443/?type=grpc&encryption=none&serviceName=jl90ewdjs423wse&authority=&mode=multi&security=reality&pbk=V9mcRgIQQG4fgqt8oOCrikLRqLoI7m9CCcb9mQpecGQ&fp=chrome&sni=www.aparat.com&sid=7a&spx=%2F#lNzMuc
 vless://8cea3df0-835c-435b-ae64-b4cb7000e13a@snapp.ir:80?encryption=none&type=ws&headerType=none&path=%2FFIRELINK&host=firelink.arian-go-internet.ir#ok1clY```
 vless://01eea08d-292a-4f43-92cd-6e059d59b3f2@185.143.232.200:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=apif.parhamm2.ir&sni=apif.parhamm2.ir&fp=random#QIpdDU```
@@ -57,5 +59,3 @@ vless://c59aa535-85f2-4323-932a-bf7741fc7e2d@185.128.82.50:3333?type=tcp&securit
 vless://c63592d9-4c68-4984-8eb4-194f85200077@dataedge2.abexamir.site:80/?encryption=none&type=ws&path=/&security=none#0SThMW```
 vless://c5ade071-9c04-4337-a9e4-bca056e11ef5@185.143.232.211:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=app.parhamm2.ir&sni=app.parhamm2.ir&fp=random#Gme43d```
 vless://75c7f176-75a5-43b0-a3ec-1d1357433cb6@94.183.154.251:15552?encryption=none&security=none&type=tcp&headerType=none#dLtket```
-vless://867939ef-7660-4723-8f72-d72d3daee3fa@185.143.235.18:80?type=ws&security=none&host=csvps.ir&sni=csvps.ir&path=%2Fv2#wa2VQN```
-vless://3db1a275-4ad6-4a31-b707-40edee412a8c@tg7.solidv.cloud:48219/?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#3Zaq4E```
