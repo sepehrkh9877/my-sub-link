@@ -1,4 +1,6 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_00:00 | 2026-05-12
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_01:00 | 2026-05-12
+vless://af7c042a-0c00-44a9-ba35-e33509e17b22@nt5.vhuma.com:8443?encryption=none&headerType=http&type=tcp&path=%2F&host=bama.ir#NvZ9KE
+vless://4368edc2-999b-444f-a30b-a9cc3a09c2a8@snapp.ir:80?type=ws&encryption=none&path=%2F&host=blob.stp-course.ir&security=none#Vsf3fJ```
 trojan://NGMQvwllUc@vip7-lb1.servicedeutsch.com:54960?security=none&host=digikala.com&headerType=http&type=tcp#uFoH12
 trojan://NGMQvwllUc@vip7-lb1.servicedeutsch.com:54960?security=none&host=digikala.com&headerType=http&type=tcp#yFjEJP```
 vless://916f4516-1dd3-4911-b126-e00e5bcd19e0@nt5.vhuma.com:8443?encryption=none&security=none&type=tcp&headerType=http&host=bama.ir#cYNaI0```
