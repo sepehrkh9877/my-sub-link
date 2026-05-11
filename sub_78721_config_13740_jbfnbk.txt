@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_07:00 | 2026-05-11
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_08:00 | 2026-05-11
 vless://916f4516-1dd3-4911-b126-e00e5bcd19e0@nt5.vhuma.com:8443?encryption=none&security=none&type=tcp&headerType=http&host=bama.ir#kbfKzi```
 vless://9ea1b164-62fa-46d3-857d-8d999d850603@snapp.ir:80/?encryption=none&host=eden.un1ty.ir&path=%2F&security=none&type=ws#Ypra2k```
 vless://11a6936b-e6d2-4ac7-8649-d8875e387b07@185.60.59.66:56972?security=none&encryption=none&headerType=none&type=tcp#4jVP5n```
