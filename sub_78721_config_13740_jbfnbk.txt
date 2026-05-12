@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_07:00 | 2026-05-12
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_08:00 | 2026-05-12
 vless://0cd653bf-961f-43c8-8396-c004f1e1bc74@FBI.amirkaj.ir:36657/?security=none&encryption=none&headerType=none&type=tcp#cRkV1H```
 vless://0cd653bf-961f-43c8-8396-c004f1e1bc74@FBI.amirkaj.ir:36657/?security=none&encryption=none&headerType=none&type=tcp#e5i8ru```
 vless://1d38ae2a-771b-4208-8190-38020154e098@Str.xQFactoR.iR:8880?encryption=none&headerType=http&host=anten.ir&path=%2F&security=none&type=tcp#MTGgDc```
@@ -160,4 +160,3 @@ vless://cea39c1a-f258-4fd9-f431-fd7d9fb32222@snapp.ir:8080?path=%2F&security=non
 vmess://eyJhZGQiOiJ6b2wzLnRiY24uaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjFlYzAwZDgzLTM5YmItNDk3NC1hYzc1LWE5N2VlMzFjZTI0ZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93czIiLCJwb3J0IjoiODA4MyIsInBzIjoicTN1bGg4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9```
 vless://25d45f59-6d92-4462-a6a9-4cbdc9c363fd@snapp.ir:2052/?type=ws&encryption=none&path=%2F&host=yakuza.atlasg.ir&security=none#Drh147```
 vless://fa1c091b-1d38-4314-9c9c-db27191d59a6@188.213.198.119:1006/?type=tcp&encryption=none&security=none#84W24o```
-vless://5b052674-e9db-4d24-b615-24235d789c0f@v1.lgate.top:2087?encryption=none&host=&path=%2F&security=none&type=ws#PNR2lZ```
