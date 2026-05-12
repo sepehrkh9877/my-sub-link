@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_00:00 | 2026-05-13
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_01:00 | 2026-05-13
 vless://27c34b3d-0f2b-4c0f-b338-7937667ac135@ch4.whatiffa.ir:8080?encryption=none&security=none&type=ws&host=ch4.whatiffa.ir&path=%2Ftunnel#NJJDuq
 vless://27c34b3d-0f2b-4c0f-b338-7937667ac135@5.253.25.73:8080?encryption=none&security=none&type=ws&host=5.253.25.73&path=%2Ftunnel#tPrBzu```
 vless://f0a18b4a-229e-4949-bb04-8f539115f81f@anten.ir:8080/?type=ws&encryption=none&path=%2F&host=sad.kalaleh24.ir&security=none#EEwtG4
@@ -165,5 +165,3 @@ vless://54bf2712-e68a-405e-90f9-28cce156ce04@useredge3.noroozmobarak.com:80?secu
 vless://fa1c091b-1d38-4314-9c9c-db27191d59a6@188.213.198.119:1006/?type=tcp&encryption=none&security=none#HvKnNe```
 vless://3db1a275-4ad6-4a31-b707-40edee412a8c@tg7.solidv.cloud:48219/?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#2wAayU
 vless://5f43e018-b7b5-4264-af68-ad8a3c91bad1@arvancloud.ir:80?path=%2F&security=&encryption=none&host=latency.xrevenant.ir&type=ws#XpAfQH```
-vless://08f9f1ff-228e-44bf-9d13-18e94f3a6db0@node1.aerova.space:2439?type=ws&encryption=none&path=%2F&host=&security=none#mwSeS8
-vless://54bf2712-e68a-405e-90f9-28cce156ce04@useredge3.noroozmobarak.com:80?security=none&type=ws&headerType=&path=%2Fweb-panel&host=vip1host.ozvinoo.ir#vlWpxk```
