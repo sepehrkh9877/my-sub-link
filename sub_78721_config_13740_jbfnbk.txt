@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_08:00 | 2026-05-13
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_09:00 | 2026-05-13
 vless://5876585d-6e8f-4543-b5f0-67891032cb5b@azad1.bingnet.online:443?type=ws&path=%2F&host=&security=tls&fp=chrome&alpn=&allowInsecure=1#0IDkse```
 vless://c3ed974e-c055-4d6d-cd67-0e341967a70c@op.aboli87.com:8443?type=tcp&encryption=none&security=none#Rg23qe```
 vless://7817a381-1dbe-444e-9dd8-8bbd2ec3554f@login.shalap80.ir:80?encryption=none&host=login.shalap80.ir&path=%2F&security=none&type=ws#GGVfJ5```
@@ -157,5 +157,3 @@ vless://0ff74bde-48aa-4ae9-86b6-716dceb25f64@185.143.233.235:80?type=ws&encrypti
 vless://252f6c2d-87a0-4c53-bffd-65291bc961d2@snapp.ir:80?type=ws&encryption=none&path=%2F&host=test.jkaaa.ir&security=none#Vep4IE```
 vless://88c7eaec-cf71-4413-ab83-00e888faa657@arvancloud.ir:80?path=%2F&security=&encryption=none&host=latency.xrevenant.ir&type=ws#UGUh8U```
 vless://6d836858-485c-42da-acbf-f7a507e8375f@hooshang.iddns.ir:51022?type=tcp&encryption=none&headerType=http&path=%2F&host=tabnak.ir&security=none#CrtiHv```
-vless://3d79d37c-0e1d-4ecd-89fb-7c5fa1276e78@snapp.ir:80/?encryption=none&type=ws&host=Onion.novatechnetwork.ir&path=/&security=none#UphN20
-vless://75c0aa08-4a12-4af0-b7a1-400a921c3956@fl1bot-ws.headerip.com:80/?security=none&type=ws&host=fl1.mv5.ir&headerType=&path=%2F#S74YIe```
