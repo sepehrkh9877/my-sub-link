@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_23:00 | 2026-05-14
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_00:00 | 2026-05-15
 vless://dd241481-69f7-4240-ae35-bbf8eb0337e1@varzesh3.com:80?encryption=none&host=dark.realreza.ir&path=%2Fevilcu&security=none&type=ws#vsIGLR```
 vless://7e9cd432-3a71-425d-a5ea-104d666da7ff@varzesh3.com:80?encryption=none&host=dark.realreza.ir&path=%2Fevilcu&security=none&type=ws#AZOvI2
 vless://53b24a66-6498-4394-9cd2-c451858a777d@varzesh3.com:80?encryption=none&host=dark.realreza.ir&path=%2Fevilcu&security=none&type=ws#M8JyCU```
@@ -102,4 +102,3 @@ vless://a72d1223-174f-49e9-a07a-5b10a34f4af8@188.121.120.188:8080?security=&encr
 vless://0b7a0272-7cf8-4a4b-bd0e-7347c69f8eb2@185.143.233.5:2086?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=cdn.mizbanertebatfarda.ir#VNEeQT```
 vless://03b3cf69-e1d7-456c-9910-37f0149584ec@fresh.vhuma.com:80?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#kcqgYG```
 vless://c59aa535-85f2-4323-932a-bf7741fc7e2d@185.128.82.50:3333?type=tcp&security=none#Sv9m65```
-vless://c63592d9-4c68-4984-8eb4-194f85200077@dataedge2.abexamir.site:80/?encryption=none&type=ws&path=/&security=none#0SThMW```
