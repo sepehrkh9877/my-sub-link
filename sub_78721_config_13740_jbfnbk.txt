@@ -1,4 +1,6 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_19:00 | 2026-05-15
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_20:00 | 2026-05-15
+vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=dn.bigmeow.ir&security=none#P5IetR
+vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snappfood.ir:2052?encryption=none&type=ws&path=%2F&host=foroogh.r9s.ir&security=none#1fZ2lM```
 vmess://eyJ2IjoiMiIsInBzIjoiQUFIMFZnIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6ImU5NjFhMWZkLTNiNjEtNDg5Ni1iMTQ3LWNjYTZmMzcxMDk2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
 vless://b434d22f-196e-4064-a1e8-d252bd7b6c6d@plusred0shop.shop:2052?path=%2Fgb&security=&encryption=none&host=plusred0shop.shop&type=ws#1i8JHh```
 vmess://eyJ2IjoiMiIsInBzIjoiUm94OXNxIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6ImU5NjFhMWZkLTNiNjEtNDg5Ni1iMTQ3LWNjYTZmMzcxMDk2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
