@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_01:00 | 2026-05-17
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_02:00 | 2026-05-17
 vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=dn.bigmeow.ir&security=none#P5IetR
 vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snappfood.ir:2052?encryption=none&type=ws&path=%2F&host=foroogh.r9s.ir&security=none#1fZ2lM```
 vmess://eyJ2IjoiMiIsInBzIjoiQUFIMFZnIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6ImU5NjFhMWZkLTNiNjEtNDg5Ni1iMTQ3LWNjYTZmMzcxMDk2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
@@ -109,4 +109,3 @@ vless://1c0a3c50-d2e9-4983-90fb-2ba1789b2826@185.60.59.66:45576?security=&encryp
 trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443/?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=randomized&type=ws&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#TcDjbH```
 vless://a72d1223-174f-49e9-a07a-5b10a34f4af8@188.121.120.188:8080?security=&encryption=none&headerType=&type=tcp#3ys7g5```
 vless://0b7a0272-7cf8-4a4b-bd0e-7347c69f8eb2@185.143.233.5:2086?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=cdn.mizbanertebatfarda.ir#VNEeQT```
-vless://03b3cf69-e1d7-456c-9910-37f0149584ec@fresh.vhuma.com:80?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#kcqgYG```
