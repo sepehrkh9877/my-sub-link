@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_18:00 | 2026-05-16
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_19:00 | 2026-05-16
 vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=dn.bigmeow.ir&security=none#P5IetR
 vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snappfood.ir:2052?encryption=none&type=ws&path=%2F&host=foroogh.r9s.ir&security=none#1fZ2lM```
 vmess://eyJ2IjoiMiIsInBzIjoiQUFIMFZnIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6ImU5NjFhMWZkLTNiNjEtNDg5Ni1iMTQ3LWNjYTZmMzcxMDk2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
@@ -54,5 +54,3 @@ vless://916f4516-1dd3-4911-b126-e00e5bcd19e0@nt5.vhuma.com:8443?encryption=none&
 vless://38631980-9769-4f86-8ef7-6fa23cf256f1@37.152.186.247:443?encryption=none&fp=chrome&pbk=DQS4j7g4KjiCoztShl6wtlecUzMW7ChGx7-yhUPDTGA&security=reality&sid=0465fa14fb&sni=www.aparat.com&spx=%2Fd1nlEtSjuudShVc&type=tcp#typOUY```
 vless://31f3bd2e-1c4d-439d-8013-6e6de03fd815@node1.aerova.space:2439?type=ws&encryption=none&path=%2F&host=&security=none#z4Cmol```
 trojan://8fccff097b82508@nyx.nyav2.info:85/?sni=filmnet.ir&allowInsecure=1&headerType=none&security=tls#xLNtZ1```
-vless://ddf71fed-cb95-43c8-ba75-bde08e8baf14@anten.ir:8880?type=ws&encryption=none&path=%2F&host=filaxephine.ir&security=none#a34971b6
-vmess://eyJhZGQiOiIyLjE4Ni4xMTUuMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRlc3Qucm9taW5hLnRlY2giLCJpZCI6ImMyZDNlYzZiLTZmZWYtNDE2Ni1hYzM1LWY2MzU5ZTkwZWU3MSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6ImtpeDRWWiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9```
