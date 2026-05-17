@@ -1,7 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_10:00 | 2026-05-17
-vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=dn.bigmeow.ir&security=none#P5IetR
-vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snappfood.ir:2052?encryption=none&type=ws&path=%2F&host=foroogh.r9s.ir&security=none#1fZ2lM```
-vmess://eyJ2IjoiMiIsInBzIjoiQUFIMFZnIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6ImU5NjFhMWZkLTNiNjEtNDg5Ni1iMTQ3LWNjYTZmMzcxMDk2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_11:00 | 2026-05-17
 vless://b434d22f-196e-4064-a1e8-d252bd7b6c6d@plusred0shop.shop:2052?path=%2Fgb&security=&encryption=none&host=plusred0shop.shop&type=ws#1i8JHh```
 vmess://eyJ2IjoiMiIsInBzIjoiUm94OXNxIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6ImU5NjFhMWZkLTNiNjEtNDg5Ni1iMTQ3LWNjYTZmMzcxMDk2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
 vmess://eyJ2IjoiMiIsInBzIjoiT3lDZFViIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6IjA2ODhiN2JmLWIyNGMtNGNjZS1hYjM3LWNkYmUxYWU0NGM1MiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
@@ -97,5 +94,3 @@ vless://c59aa535-85f2-4323-932a-bf7741fc7e2d@185.128.82.50:3333?security=&encryp
 vless://f29f8437-1ea9-4268-a60b-175452637f9b@null.psdgold.st:17385?encryption=none&security=none&type=tcp#V1f6wo```
 vless://c68d4cc1-44e1-4f57-8edf-d2e19fc66e73@tg7.solidv.cloud:2080?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#21LmjM```
 vless://e69202ba-5e1f-4fde-8d41-fabcebf69945@plusred0shop.shop:80?path=%2Fko&security=&encryption=none&host=plusred0shop.shop&type=ws#4r9X5R```
-vless://50e53a0a-177e-4353-9a2e-4b535cbd10eb@snapp.ir:2052?security=none&type=ws&headerType=&path=%2F&host=ge05.electrodragon.ir#Q22g0q```
-vless://dd4fb2a0-f9c6-4d8d-a5dd-9186d6993d35@ch5.whatiffa.ir:8080?encryption=none&security=none&type=ws&host=ch5.whatiffa.ir&path=%2Ftunnel#bxEtrE```
