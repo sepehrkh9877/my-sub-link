@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_07:00 | 2026-05-17
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_08:00 | 2026-05-17
 vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=dn.bigmeow.ir&security=none#P5IetR
 vless://2f7ac27a-69f6-4185-aae9-4f19fc7a3d27@snappfood.ir:2052?encryption=none&type=ws&path=%2F&host=foroogh.r9s.ir&security=none#1fZ2lM```
 vmess://eyJ2IjoiMiIsInBzIjoiQUFIMFZnIiwiYWRkIjoid3d3LmFydmFuY2xvdWQuaXIiLCJwb3J0IjoyMDk1LCJpZCI6ImU5NjFhMWZkLTNiNjEtNDg5Ni1iMTQ3LWNjYTZmMzcxMDk2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIvVmlQU2VydmljZSIsImhvc3QiOiJWaVAtU2VydmljZVNlbGxlcklOVGVsZWdyYW0uaGF5cGVyei5pciJ9```
@@ -101,5 +101,3 @@ vless://50e53a0a-177e-4353-9a2e-4b535cbd10eb@snapp.ir:2052?security=none&type=ws
 vless://dd4fb2a0-f9c6-4d8d-a5dd-9186d6993d35@ch5.whatiffa.ir:8080?encryption=none&security=none&type=ws&host=ch5.whatiffa.ir&path=%2Ftunnel#bxEtrE```
 vless://e3a17006-f1b5-4a8a-b677-b1b02210e08c@snapp.ir:80?encryption=none&host=conmoh.caferozi.ir&path=%2Fyirjedtets&security=none&type=ws#VtDPQ9```
 vless://a72d1223-174f-49e9-a07a-5b10a34f4af8@188.121.120.188:8080?security=&encryption=none&headerType=&type=tcp#OaFUpV```
-vless://c59aa535-85f2-4323-932a-bf7741fc7e2d@185.128.82.50:3333?security=&encryption=none&headerType=none&type=tcp#eaGaWS```
-vless://dd4fb2a0-f9c6-4d8d-a5dd-9186d6993d35@ch5.whatiffa.ir:8080?encryption=none&security=none&type=ws&host=ch5.whatiffa.ir&path=%2Ftunnel#17rWEV```
