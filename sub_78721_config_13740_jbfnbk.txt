@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_02:00 | 2026-05-25
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_03:00 | 2026-05-25
 vless://f39be585-209b-451c-a58f-66c940218e63@185.143.234.122:443?encryption=none&security=tls&type=ws&headerType=none&path=%2FFIRELINKKVPN&host=firelinkk.arian-go-internet.ir#Q1vTI1
 vless://f39be585-209b-451c-a58f-66c940218e63@Tamin.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=%2FFIRELINK&host=firelink.arian-go-internet.ir#9COWB0```
 vless://f5d56907-00d0-4421-96d0-167baedda318@C4D9C2D0FABD.injected.me:49266?encryption=none&host=C4D9C2D0FABD.injected.me&path=%2F&security=none&type=ws#user4```
