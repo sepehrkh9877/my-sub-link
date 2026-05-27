@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_11:00 | 2026-05-27
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_12:00 | 2026-05-27
 vless://ab3ea919-201c-4a17-b479-22e59d7e74aa@lh.injected.me:2203?type=ws&encryption=none&path=%2F&host=lh.injected.me&security=none#user11-vzcql3tl```
 vless://8f58ffc6-33cb-473c-9d41-ad9705371212@lh.injected.me:3306?type=ws&encryption=none&path=%2F&host=lh.injected.me&security=none#user8-y088ieh3```
 vless://954532c5-a1f8-4c0c-8b08-0e86707b351f@c4d9c2d0fabd.injected.me:20736?type=ws&encryption=none&path=%2F&host=c4d9c2d0fabd.injected.me&security=none#user5```
