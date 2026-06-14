@@ -1,4 +1,4 @@
-vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_10:00 | 2026-06-14
+vless://ea7553a1-1b63-4511-93c6-6284f6760e7e@1.1.1.1:443?encryption=none&security=none&type=tcp#🕒_Last_Update:_11:00 | 2026-06-14
 vless://298cf93f-85ed-4ffd-b166-b5788b5bc6a0@mn.learnpilot.pro:57766?type=ws&encryption=none&path=%2F&host=mn.learnpilot.pro&security=none#server7-5n3f81fv```
 vless://0b014548-b6d3-4cf6-8eb3-c9d210bf5b1a@snapp.ir:2082?type=ws&encryption=none&path=%2F&host=an.injected.me&security=none#server6-c6us7s9s```
 vless://5e21cfb1-c94f-4a1c-bc8a-ee7bc6d48e39@lh.injected.me:1331?type=ws&encryption=none&path=%2F&host=lh.injected.me&security=none#user12-dtz6z3b5```
